@@ -1188,5 +1188,215 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323350",
     "name": "Lミニマート 小平仲町店",
     "station": "小平"
+  },
+  "13323352": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323352",
+    "name": "FIX LOUNGE 渋谷店",
+    "station": "渋谷"
+  },
+  "13323353": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323353",
+    "name": "珍來 竹ノ塚東口店",
+    "station": "竹ノ塚"
+  },
+  "13323355": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323355",
+    "name": "和ノ音",
+    "station": "麻布十番"
+  },
+  "13323356": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323356",
+    "name": "JACK IN THE DONUTS グランデュオ蒲田店",
+    "station": "蒲田"
+  },
+  "13323358": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323358",
+    "name": "W THE LOUNGE 渋谷店",
+    "station": "渋谷"
+  },
+  "13323359": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323359",
+    "name": "みくラボ ハナレ オミセ",
+    "station": "御蔵島"
+  },
+  "13323360": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323360",
+    "name": "立ち飲み 福路 中野北口店",
+    "station": "中野"
+  },
+  "13323361": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323361",
+    "name": "ANAフェスタ 羽田65番ゲート店",
+    "station": "羽田空港第２ターミナル（東京モノレール）"
+  },
+  "13323362": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323362",
+    "name": "ロイヤルガーデン ラウンジ&バー 亀戸店",
+    "station": "亀戸"
+  },
+  "13323366": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323366",
+    "name": "cafe Roi",
+    "station": "三田"
+  },
+  "13323367": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323367",
+    "name": "立ち呑み さっちも",
+    "station": "矢口渡"
+  },
+  "13323368": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323368",
+    "name": "中政",
+    "station": "神津島"
+  },
+  "13323369": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323369",
+    "name": "元祖焼豚センター うる寅商店 渋谷店",
+    "station": "渋谷"
+  },
+  "13323370": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323370",
+    "name": "よるのま 赤坂店",
+    "station": "赤坂"
+  },
+  "13323371": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323371",
+    "name": "晩酌所",
+    "station": "赤坂"
+  },
+  "13323372": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323372",
+    "name": "Matcha stand IPPUKU 築地店",
+    "station": "築地市場"
+  },
+  "13323373": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323373",
+    "name": "きらく",
+    "station": "浅草橋"
+  },
+  "13323374": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323374",
+    "name": "麺創Re",
+    "station": "不動前"
+  },
+  "13323377": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323377",
+    "name": "Terrace&Lounge",
+    "station": "両国"
+  },
+  "13323378": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323378",
+    "name": "えどもんど　北新宿店",
+    "station": "大久保"
+  },
+  "13323379": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323379",
+    "name": "COZY食堂",
+    "station": "代官山"
+  },
+  "13323380": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323380",
+    "name": "インド料理ムンバイ 表参道 ラ・ポルト青山店+The India Tea House",
+    "station": "表参道"
+  },
+  "13323381": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323381",
+    "name": "Okubo",
+    "station": "銀座"
+  },
+  "13323382": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323382",
+    "name": "蔦",
+    "station": "東あずま"
+  },
+  "13323383": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323383",
+    "name": "和顔和食ふくわらいや",
+    "station": "大井町"
+  },
+  "13323384": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323384",
+    "name": "土鍋ご飯と麻辣湯 とちゃん",
+    "station": "中野坂上"
+  },
+  "13323385": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323385",
+    "name": "立呑み中華 猫猫",
+    "station": "神保町"
+  },
+  "13323386": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323386",
+    "name": "zenta coffee",
+    "station": "目黒"
+  },
+  "13323387": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323387",
+    "name": "ドトールコーヒーショップ 洗足駅前店",
+    "station": "洗足"
+  },
+  "13323388": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323388",
+    "name": "八三六",
+    "station": "千駄木"
+  },
+  "13323389": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323389",
+    "name": "新橋くさやんラーメン",
+    "station": "新橋"
+  },
+  "13323390": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323390",
+    "name": "なごみ",
+    "station": "六本木"
+  },
+  "13323391": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323391",
+    "name": "HEY COFFEE",
+    "station": "池ノ上"
+  },
+  "13323392": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323392",
+    "name": "玄点＋",
+    "station": "二子玉川"
+  },
+  "13323393": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323393",
+    "name": "みらいの小さなパン屋さん",
+    "station": "国領"
+  },
+  "13323394": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323394",
+    "name": "茶房＆ギャラリー 花美香",
+    "station": "立川南"
+  },
+  "13323395": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323395",
+    "name": "東京拉麺 六琴",
+    "station": "荻窪"
+  },
+  "13323396": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323396",
+    "name": "しらんけど～笑",
+    "station": "四谷三丁目"
+  },
+  "13323397": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323397",
+    "name": "Kobo Kishin",
+    "station": "三軒茶屋"
+  },
+  "13323398": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323398",
+    "name": "日本茶専門店 粋.",
+    "station": "新馬場"
+  },
+  "13323399": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323399",
+    "name": "Lab.ludique",
+    "station": "中野新橋"
+  },
+  "13323400": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323400",
+    "name": "HORIGUCHI COFFEE à la table",
+    "station": "東京ビッグサイト"
   }
 }
