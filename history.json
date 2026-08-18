@@ -1398,5 +1398,240 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323400",
     "name": "HORIGUCHI COFFEE à la table",
     "station": "東京ビッグサイト"
+  },
+  "13323401": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323401",
+    "name": "炉端壱星",
+    "station": "練馬"
+  },
+  "13323402": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323402",
+    "name": "デカ盛り弁当はるき 亀戸店",
+    "station": "亀戸"
+  },
+  "13323403": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323403",
+    "name": "魚豪商 コダマ 有楽町店",
+    "station": "有楽町"
+  },
+  "13323404": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323404",
+    "name": "PAYSAGE 日本橋三越本店",
+    "station": "三越前"
+  },
+  "13323405": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323405",
+    "name": "THE BUFFET 点心甜心 三鷹",
+    "station": "新小金井"
+  },
+  "13323406": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323406",
+    "name": "やきとりkuku 浅草橋店",
+    "station": "浅草橋"
+  },
+  "13323407": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323407",
+    "name": "カレーショップ DEKU",
+    "station": "森下"
+  },
+  "13323409": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323409",
+    "name": "蕾",
+    "station": "渋谷"
+  },
+  "13323410": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323410",
+    "name": "かき氷屋 六花",
+    "station": "本所吾妻橋"
+  },
+  "13323411": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323411",
+    "name": "Makana",
+    "station": "湯島"
+  },
+  "13323412": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323412",
+    "name": "Holiday",
+    "station": "明治神宮前"
+  },
+  "13323413": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323413",
+    "name": "THE BUZZ SHISHA",
+    "station": "池袋"
+  },
+  "13323414": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323414",
+    "name": "おくっち",
+    "station": "新橋"
+  },
+  "13323415": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323415",
+    "name": "Shisha Lounge Hoopa",
+    "station": "新宿西口"
+  },
+  "13323416": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323416",
+    "name": "Bar Mignon",
+    "station": "経堂"
+  },
+  "13323417": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323417",
+    "name": "牛たん酒場 たん之助 ヨドバシ池袋店",
+    "station": "池袋"
+  },
+  "13323418": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323418",
+    "name": "PIT BAR",
+    "station": "赤坂見附"
+  },
+  "13323419": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323419",
+    "name": "全席個室居酒屋 3H食べ飲み放題 上野うまいもん横丁",
+    "station": "京成上野"
+  },
+  "13323420": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323420",
+    "name": "壺屋総本店",
+    "station": "湯島"
+  },
+  "13323421": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323421",
+    "name": "七輪焼肉安安 ひばりヶ丘店",
+    "station": "ひばりケ丘"
+  },
+  "13323422": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323422",
+    "name": "シカク",
+    "station": "町屋駅前"
+  },
+  "13323423": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323423",
+    "name": "季の庭 赤坂店",
+    "station": "溜池山王"
+  },
+  "13323424": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323424",
+    "name": "BoBo cat 吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13323426": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323426",
+    "name": "洋麺屋 五右衛門 広尾店",
+    "station": "広尾"
+  },
+  "13323427": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323427",
+    "name": "鉄板焼Calme",
+    "station": "新富町"
+  },
+  "13323428": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323428",
+    "name": "tens.",
+    "station": "明治神宮前"
+  },
+  "13323429": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323429",
+    "name": "逸品火鍋",
+    "station": "池袋"
+  },
+  "13323431": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323431",
+    "name": "韓無量 上野広小路店",
+    "station": "上野御徒町"
+  },
+  "13323432": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323432",
+    "name": "肉うどん いのうえ 品川店",
+    "station": "天王洲アイル"
+  },
+  "13323433": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323433",
+    "name": "神保町 台",
+    "station": "神保町"
+  },
+  "13323434": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323434",
+    "name": "小麻辣 荏原町店",
+    "station": "荏原町"
+  },
+  "13323435": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323435",
+    "name": "Piticone",
+    "station": "下神明"
+  },
+  "13323436": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323436",
+    "name": "日本料理 割烹カウンター",
+    "station": "東京ビッグサイト"
+  },
+  "13323437": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323437",
+    "name": "溝",
+    "station": "外苑前"
+  },
+  "13323438": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323438",
+    "name": "無人珈琲 ふらった 三鷹店",
+    "station": "三鷹"
+  },
+  "13323439": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323439",
+    "name": "大久保カレー",
+    "station": "東新宿"
+  },
+  "13323440": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323440",
+    "name": "マルエツ 板橋",
+    "station": "板橋区役所前"
+  },
+  "13323441": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323441",
+    "name": "tsumugi bakery",
+    "station": "西ケ原四丁目"
+  },
+  "13323442": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323442",
+    "name": "LAWSON H葛飾立石六丁目店",
+    "station": "青砥"
+  },
+  "13323443": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323443",
+    "name": "ICE PLANT",
+    "station": "青井"
+  },
+  "13323444": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323444",
+    "name": "瑠璃",
+    "station": "新宿三丁目"
+  },
+  "13323445": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323445",
+    "name": "VINE SOCIAL",
+    "station": "西葛西"
+  },
+  "13323446": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323446",
+    "name": "丸金商店",
+    "station": "神津島"
+  },
+  "13323447": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323447",
+    "name": "焼飯と麺 神田",
+    "station": "小川町"
+  },
+  "13323448": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323448",
+    "name": "くすのきキッチン",
+    "station": "国領"
+  },
+  "13323449": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323449",
+    "name": "オーケー 足立保木間店",
+    "station": "竹ノ塚"
+  },
+  "13323450": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323450",
+    "name": "おっちゃんの店 市蔵",
+    "station": "荏原町"
   }
 }
