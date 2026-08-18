@@ -948,5 +948,245 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13323300",
     "name": "cafe&diner サボるイヌ",
     "station": "九品仏"
+  },
+  "13323301": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323301",
+    "name": "梁山泊小籠湯包 リンクス 池袋店",
+    "station": "池袋"
+  },
+  "13323302": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323302",
+    "name": "BEACH TERRACE TOKYO",
+    "station": "汐留"
+  },
+  "13323303": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323303",
+    "name": "肉蕎麦 盛盛",
+    "station": "ひばりケ丘"
+  },
+  "13323304": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323304",
+    "name": "ファミリーマート 杉並松庵三丁目店",
+    "station": "西荻窪"
+  },
+  "13323305": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323305",
+    "name": "ホテルバリアンリゾート 東新宿店",
+    "station": "東新宿"
+  },
+  "13323306": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323306",
+    "name": "ゆるぽた。",
+    "station": "武蔵小金井"
+  },
+  "13323307": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323307",
+    "name": "ホテルビーチコマ",
+    "station": "小笠原諸島その他"
+  },
+  "13323308": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323308",
+    "name": "Poppy Wine",
+    "station": "祐天寺"
+  },
+  "13323309": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323309",
+    "name": "CANTINETTA DELLA PACE",
+    "station": "広尾"
+  },
+  "13323310": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323310",
+    "name": "ホテルバリアンリゾート 新宿グランピング店",
+    "station": "西武新宿"
+  },
+  "13323311": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323311",
+    "name": "セントラルキッチン月島",
+    "station": "月島"
+  },
+  "13323312": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323312",
+    "name": "スパイススタンド青春",
+    "station": "下北沢"
+  },
+  "13323313": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323313",
+    "name": "とんかつ揚明",
+    "station": "本駒込"
+  },
+  "13323314": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323314",
+    "name": "韓国屋台居酒屋 錦糸町ポチャ",
+    "station": "錦糸町"
+  },
+  "13323315": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323315",
+    "name": "番町分館",
+    "station": "麹町"
+  },
+  "13323316": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323316",
+    "name": "パレスホテル東京スイーツブティック 松屋銀座店",
+    "station": "銀座一丁目"
+  },
+  "13323317": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323317",
+    "name": "無境",
+    "station": "神泉"
+  },
+  "13323319": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323319",
+    "name": "ちゃりんこダイニング たかぼう",
+    "station": "北千住"
+  },
+  "13323320": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323320",
+    "name": "なぎちゃんラーメン 東高円寺",
+    "station": "東高円寺"
+  },
+  "13323321": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323321",
+    "name": "江戸麺 熊八",
+    "station": "菊川"
+  },
+  "13323322": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323322",
+    "name": "窯鶏皇",
+    "station": "面影橋"
+  },
+  "13323323": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323323",
+    "name": "四季邸 新宿パレットビル店",
+    "station": "新宿西口"
+  },
+  "13323324": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323324",
+    "name": "IKUKO BEAUTY CAFE",
+    "station": "中河原"
+  },
+  "13323325": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323325",
+    "name": "居酒屋灯屋",
+    "station": "大崎広小路"
+  },
+  "13323326": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323326",
+    "name": "大地のスパイスカレー たびのくま",
+    "station": "神田"
+  },
+  "13323327": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323327",
+    "name": "うどん白糸 目白店",
+    "station": "目白"
+  },
+  "13323328": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323328",
+    "name": "喫茶 三年目の赤いスイートピー",
+    "station": "八丈島"
+  },
+  "13323329": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323329",
+    "name": "Chez L’Ours",
+    "station": "神泉"
+  },
+  "13323330": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323330",
+    "name": "本格串焼き 若丸屋 2号店",
+    "station": "高円寺"
+  },
+  "13323331": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323331",
+    "name": "X Stand 池袋西口店",
+    "station": "池袋"
+  },
+  "13323332": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323332",
+    "name": "TOKYO MIX CURRY スタンド 神田司町",
+    "station": "小川町"
+  },
+  "13323333": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323333",
+    "name": "楽笑 田町駅前店",
+    "station": "三田"
+  },
+  "13323334": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323334",
+    "name": "ひとめぼれ 田町店",
+    "station": "三田"
+  },
+  "13323336": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323336",
+    "name": "KARAOKE X 池袋西口店",
+    "station": "池袋"
+  },
+  "13323337": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323337",
+    "name": "KitchenTaku",
+    "station": "大塚駅前"
+  },
+  "13323338": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323338",
+    "name": "Amusement BAR AQUA",
+    "station": "上野広小路"
+  },
+  "13323339": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323339",
+    "name": "お酒 小料理 竹泉",
+    "station": "溜池山王"
+  },
+  "13323340": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323340",
+    "name": "火入れ みつ囲 リンクス池袋店",
+    "station": "池袋"
+  },
+  "13323341": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323341",
+    "name": "焼き鳥のカゼ",
+    "station": "大鳥居"
+  },
+  "13323342": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323342",
+    "name": "日本ワインと家庭料理 雨下",
+    "station": "荻窪"
+  },
+  "13323343": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323343",
+    "name": "京都北白川ラーメン魁力屋 吉祥寺店",
+    "station": "吉祥寺"
+  },
+  "13323344": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323344",
+    "name": "ななや",
+    "station": "立川"
+  },
+  "13323345": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323345",
+    "name": "大衆酒場 翼",
+    "station": "四ツ木"
+  },
+  "13323346": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323346",
+    "name": "東京凮月堂 蒲田東急プラザ",
+    "station": "蒲田"
+  },
+  "13323347": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323347",
+    "name": "North Village 新宿歌舞伎町店",
+    "station": "西武新宿"
+  },
+  "13323348": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323348",
+    "name": "広島汁なし担々麺 佃",
+    "station": "高田馬場"
+  },
+  "13323349": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323349",
+    "name": "酔楽",
+    "station": "新小岩"
+  },
+  "13323350": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13323350",
+    "name": "Lミニマート 小平仲町店",
+    "station": "小平"
   }
 }
