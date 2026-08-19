@@ -4663,5 +4663,220 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13324099",
     "name": "京出汁おでんと旬菜天ぷら 鳥居くぐり 新宿歌舞伎町 はなれ",
     "station": "新宿西口"
+  },
+  "13324100": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324100",
+    "name": "素麺屋 糸 六本木店",
+    "station": "六本木"
+  },
+  "13324101": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324101",
+    "name": "まいばすけっと 西日暮里2丁目店",
+    "station": "日暮里"
+  },
+  "13324102": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324102",
+    "name": "革命レバー",
+    "station": "荻窪"
+  },
+  "13324103": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324103",
+    "name": "鮨 なか川",
+    "station": "銀座"
+  },
+  "13324104": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324104",
+    "name": "しながわ戸越 宝寿司",
+    "station": "戸越公園"
+  },
+  "13324105": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324105",
+    "name": "みどり工房",
+    "station": "千駄ケ谷"
+  },
+  "13324106": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324106",
+    "name": "MM/DD/YY COFFEE",
+    "station": "千駄ケ谷"
+  },
+  "13324107": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324107",
+    "name": "鉄板焼肉 大当り 大森店",
+    "station": "大森海岸"
+  },
+  "13324108": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324108",
+    "name": "おばんざい 壱菜",
+    "station": "王子駅前"
+  },
+  "13324109": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324109",
+    "name": "教職員レストラン楠亭",
+    "station": "早稲田（都電）"
+  },
+  "13324110": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324110",
+    "name": "Kiosk 東京幹線713",
+    "station": "東京"
+  },
+  "13324111": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324111",
+    "name": "一虎牛肉麺",
+    "station": "池袋"
+  },
+  "13324112": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324112",
+    "name": "muninoma",
+    "station": "矢野口"
+  },
+  "13324113": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324113",
+    "name": "OCHER",
+    "station": "下北沢"
+  },
+  "13324114": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324114",
+    "name": "LAWSON 町田相原町境橋店",
+    "station": "相原"
+  },
+  "13324116": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324116",
+    "name": "セイロバ",
+    "station": "不動前"
+  },
+  "13324117": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324117",
+    "name": "寛永堂 シャポー小岩店",
+    "station": "小岩"
+  },
+  "13324118": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324118",
+    "name": "海米山",
+    "station": "笹塚"
+  },
+  "13324119": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324119",
+    "name": "Marsera Kz",
+    "station": "綾瀬"
+  },
+  "13324120": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324120",
+    "name": "オザム 日の出店",
+    "station": "武蔵増戸"
+  },
+  "13324121": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324121",
+    "name": "麺場 田所商店 世田谷多摩堤通り店",
+    "station": "成城学園前"
+  },
+  "13324122": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324122",
+    "name": "bilancia",
+    "station": "府中"
+  },
+  "13324123": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324123",
+    "name": "れんげ食堂Toshu 東小金井店",
+    "station": "東小金井"
+  },
+  "13324124": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324124",
+    "name": "うなぎと酒 うなひろ",
+    "station": "用賀"
+  },
+  "13324125": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324125",
+    "name": "蕎麦いまゐ 池袋サンシャイン店",
+    "station": "東池袋"
+  },
+  "13324126": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324126",
+    "name": "カフェバル Atelier R",
+    "station": "三鷹"
+  },
+  "13324127": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324127",
+    "name": "Café Salon Le Mimi",
+    "station": "池袋"
+  },
+  "13324128": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324128",
+    "name": "高野ガーデン",
+    "station": "沢井"
+  },
+  "13324130": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324130",
+    "name": "山小屋 Sweets & Kitchen",
+    "station": "利島"
+  },
+  "13324131": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324131",
+    "name": "ファミリーマート 東京タワー通り店",
+    "station": "神谷町"
+  },
+  "13324132": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324132",
+    "name": "LAWSON 鮫洲駅前店",
+    "station": "鮫洲"
+  },
+  "13324133": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324133",
+    "name": "スパ＆カプセルホテル グランパークイン 北千住",
+    "station": "北千住"
+  },
+  "13324135": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324135",
+    "name": "POKER BAR HUCK 89",
+    "station": "新宿西口"
+  },
+  "13324136": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324136",
+    "name": "カンテボーレ 西台店",
+    "station": "西台"
+  },
+  "13324137": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324137",
+    "name": "JunJun",
+    "station": "高円寺"
+  },
+  "13324138": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324138",
+    "name": "西欧食堂 PLAT",
+    "station": "久が原"
+  },
+  "13324139": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324139",
+    "name": "ケンタッキーフライドチキン 京王リトナード北野店",
+    "station": "北野"
+  },
+  "13324140": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324140",
+    "name": "李記厨房",
+    "station": "新小岩"
+  },
+  "13324141": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324141",
+    "name": "一風堂 イオン八王子滝山店",
+    "station": "北八王子"
+  },
+  "13324142": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324142",
+    "name": "Khazana Coffee in Lots",
+    "station": "小宮"
+  },
+  "13324146": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324146",
+    "name": "李暁七マーラータン 池袋北口店",
+    "station": "池袋"
+  },
+  "13324148": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324148",
+    "name": "鮨 勘太",
+    "station": "築地"
+  },
+  "13324149": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13324149",
+    "name": "今人",
+    "station": "中延"
   }
 }
