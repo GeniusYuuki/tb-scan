@@ -13383,5 +13383,255 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13325945",
     "name": "しゃぶ葉 新宿西口店",
     "station": "新宿西口"
+  },
+  "13325946": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325946",
+    "name": "スーパーマーケット リコス 上目黒5丁目店",
+    "station": "祐天寺"
+  },
+  "13325947": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325947",
+    "name": "中華 MUTSU",
+    "station": "代々木上原"
+  },
+  "13325948": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325948",
+    "name": "カフェテリア Please",
+    "station": "六町"
+  },
+  "13325949": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325949",
+    "name": "中華酒場七海",
+    "station": "小作"
+  },
+  "13325950": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325950",
+    "name": "ファミリーマート 府中駅南口店",
+    "station": "府中"
+  },
+  "13325951": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325951",
+    "name": "トラットリア ダ セーミ",
+    "station": "人形町"
+  },
+  "13325952": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325952",
+    "name": "麺屋ずぅう 武蔵小山",
+    "station": "武蔵小山"
+  },
+  "13325953": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325953",
+    "name": "鶏だしおでん八幸 下神明店",
+    "station": "下神明"
+  },
+  "13325954": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325954",
+    "name": "吟とろ 新橋店",
+    "station": "新橋"
+  },
+  "13325955": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325955",
+    "name": "ギントロ 新橋店",
+    "station": "新橋"
+  },
+  "13325956": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325956",
+    "name": "シュラスコ居酒屋 Calluna 四ツ谷店",
+    "station": "四ツ谷"
+  },
+  "13325957": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325957",
+    "name": "九州酒場 勇気 高円寺駅前店",
+    "station": "高円寺"
+  },
+  "13325958": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325958",
+    "name": "クリスプサラダワークス 御茶ノ水 ワテラス店",
+    "station": "淡路町"
+  },
+  "13325959": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325959",
+    "name": "ビールボール麺",
+    "station": "東伏見"
+  },
+  "13325960": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325960",
+    "name": "Palette LAB.-飲み物研究所-",
+    "station": "池袋"
+  },
+  "13325961": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325961",
+    "name": "鮪一刀流 囮",
+    "station": "大井町"
+  },
+  "13325962": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325962",
+    "name": "雫香",
+    "station": "恵比寿"
+  },
+  "13325963": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325963",
+    "name": "銘慧菜館",
+    "station": "小川"
+  },
+  "13325964": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325964",
+    "name": "ルービックハウス",
+    "station": "中板橋"
+  },
+  "13325965": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325965",
+    "name": "らうんじ ほーりぃ",
+    "station": "浅草（東武・都営・メトロ）"
+  },
+  "13325966": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325966",
+    "name": "新潟雪国ラーメンなおじ 錦糸町店",
+    "station": "錦糸町"
+  },
+  "13325967": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325967",
+    "name": "銀座から来た美味",
+    "station": "大門"
+  },
+  "13325968": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325968",
+    "name": "まいばすけっと 新小金井駅前店",
+    "station": "新小金井"
+  },
+  "13325969": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325969",
+    "name": "楽買 アジア物産",
+    "station": "小岩"
+  },
+  "13325970": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325970",
+    "name": "Le Salon de Legumes",
+    "station": "中目黒"
+  },
+  "13325971": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325971",
+    "name": "東京ミルクチーズ工場 グランスタ東京店",
+    "station": "東京"
+  },
+  "13325972": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325972",
+    "name": "日本油党 北千住支部",
+    "station": "北千住"
+  },
+  "13325973": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325973",
+    "name": "もんじゃ酒場 ごちゃまぜ",
+    "station": "中目黒"
+  },
+  "13325974": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325974",
+    "name": "SNOW SALT",
+    "station": "上野"
+  },
+  "13325975": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325975",
+    "name": "個室居酒屋 食べ放題 椿 新宿本店",
+    "station": "新宿西口"
+  },
+  "13325976": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325976",
+    "name": "No.B",
+    "station": "神泉"
+  },
+  "13325977": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325977",
+    "name": "un no n.",
+    "station": "新宿御苑前"
+  },
+  "13325978": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325978",
+    "name": "逢　サーモン料理専門刺身店",
+    "station": "椎名町"
+  },
+  "13325979": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325979",
+    "name": "焼肉やっちゃん 麻布十番店",
+    "station": "麻布十番"
+  },
+  "13325980": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325980",
+    "name": "蜀王土鍋マーラータン",
+    "station": "早稲田（都電）"
+  },
+  "13325981": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325981",
+    "name": "八珍味",
+    "station": "西日暮里"
+  },
+  "13325982": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325982",
+    "name": "鮨 杣木",
+    "station": "六本木"
+  },
+  "13325983": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325983",
+    "name": "Sweets＆Bar Hermitage de Repos",
+    "station": "渋谷"
+  },
+  "13325984": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325984",
+    "name": "大衆酒場とらとら",
+    "station": "大山"
+  },
+  "13325985": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325985",
+    "name": "四万十屋 上野店",
+    "station": "上野"
+  },
+  "13325986": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325986",
+    "name": "鶏おでん清水",
+    "station": "東京"
+  },
+  "13325987": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325987",
+    "name": "カラオケMYSONG 錦糸町店",
+    "station": "錦糸町"
+  },
+  "13325988": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325988",
+    "name": "韓国家庭料理居酒屋トマンナ",
+    "station": "西新井大師西"
+  },
+  "13325989": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325989",
+    "name": "Shisha lounge key 歌舞伎町一番街店",
+    "station": "新宿西口"
+  },
+  "13325990": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325990",
+    "name": "Pool&Darts EDGE",
+    "station": "明大前"
+  },
+  "13325991": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325991",
+    "name": "Amusement Bar EDGE",
+    "station": "千歳烏山"
+  },
+  "13325992": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325992",
+    "name": "和牛一彩",
+    "station": "新橋"
+  },
+  "13325993": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325993",
+    "name": "ハチとろ",
+    "station": "八王子"
+  },
+  "13325994": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325994",
+    "name": "PONTE IDEA",
+    "station": "渋谷"
+  },
+  "13325995": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13325995",
+    "name": "足湯 CAFE＆BAR 愈 新宿歌舞伎町店",
+    "station": "西武新宿"
   }
 }
