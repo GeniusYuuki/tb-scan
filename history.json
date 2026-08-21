@@ -13818,5 +13818,45 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326032",
     "name": "博多あかちょうちん",
     "station": "新橋"
+  },
+  "13326033": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326033",
+    "name": "和牛焼肉 千",
+    "station": "銀座"
+  },
+  "13326034": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326034",
+    "name": "鮨 銀座おのでら 息子 恵比寿店",
+    "station": "恵比寿"
+  },
+  "13326035": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326035",
+    "name": "TACHINOMI MAR",
+    "station": "学芸大学"
+  },
+  "13326036": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326036",
+    "name": "炭焼きと海鮮 乾杯家 田町店",
+    "station": "三田"
+  },
+  "13326037": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326037",
+    "name": "伊吹",
+    "station": "新宿"
+  },
+  "13326038": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326038",
+    "name": "鮨孝",
+    "station": "人形町"
+  },
+  "13326039": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326039",
+    "name": "Toi et Trois",
+    "station": "巣鴨"
+  },
+  "13326040": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326040",
+    "name": "URBAN COFFEE ROASTER",
+    "station": "外苑前"
   }
 }
