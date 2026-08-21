@@ -13703,5 +13703,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326009",
     "name": "豆と餅 東京",
     "station": "恵比寿"
+  },
+  "13326010": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326010",
+    "name": "南部商店",
+    "station": "白金高輪"
+  },
+  "13326011": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326011",
+    "name": "玉川学園　朔風館",
+    "station": "玉川学園前"
+  },
+  "13326012": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326012",
+    "name": "ニューデイズ 小岩店",
+    "station": "小岩"
+  },
+  "13326013": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326013",
+    "name": "おにぎりこんが羽田空港第一ターミナル店",
+    "station": "羽田空港第１ターミナル（東京モノレール）"
   }
 }
