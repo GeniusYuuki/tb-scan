@@ -14563,5 +14563,15 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326181",
     "name": "小料理伊都子",
     "station": "中村橋"
+  },
+  "13326182": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326182",
+    "name": "トロ吉 五反田店",
+    "station": "五反田"
+  },
+  "13326183": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326183",
+    "name": "串カツ田中 京成曳舟店",
+    "station": "京成曳舟"
   }
 }
