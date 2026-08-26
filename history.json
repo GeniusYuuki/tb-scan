@@ -14633,5 +14633,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326195",
     "name": "蒼山",
     "station": "六本木"
+  },
+  "13326196": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326196",
+    "name": "E/don",
+    "station": "代々木上原"
+  },
+  "13326198": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326198",
+    "name": "タワー・スコラカフェ",
+    "station": "新御茶ノ水"
+  },
+  "13326199": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326199",
+    "name": "和み処KEI",
+    "station": "十条"
   }
 }
