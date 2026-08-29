@@ -15168,5 +15168,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326305",
     "name": "能房洞山",
     "station": "高尾山口"
+  },
+  "13326306": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326306",
+    "name": "セブンイレブン 北青山２丁目店",
+    "station": "外苑前"
+  },
+  "13326307": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326307",
+    "name": "EIKI TOKYO",
+    "station": "渋谷"
+  },
+  "13326308": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326308",
+    "name": "メルカートメモス",
+    "station": "大崎広小路"
   }
 }
