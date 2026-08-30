@@ -15298,5 +15298,20 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326331",
     "name": "SINKIES LAKSA STAND",
     "station": "淡路町"
+  },
+  "13326332": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326332",
+    "name": "Bistroファングム",
+    "station": "祐天寺"
+  },
+  "13326333": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326333",
+    "name": "MADO",
+    "station": "北参道"
+  },
+  "13326334": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326334",
+    "name": "MATCHA MEIJIN Cafe 浅草店",
+    "station": "浅草（東武・都営・メトロ）"
   }
 }
