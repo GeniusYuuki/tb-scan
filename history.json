@@ -15253,5 +15253,50 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326322",
     "name": "牛乳食パン専門店　みるく 小岩店",
     "station": "小岩"
+  },
+  "13326323": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326323",
+    "name": "MELON LAB. 鷺ノ宮店",
+    "station": "鷺ノ宮"
+  },
+  "13326324": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326324",
+    "name": "カフェどーにっち",
+    "station": "恋ケ窪"
+  },
+  "13326325": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326325",
+    "name": "くいしんぼう",
+    "station": "赤羽"
+  },
+  "13326326": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326326",
+    "name": "喫茶＆スナック アイアイ",
+    "station": "久米川"
+  },
+  "13326327": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326327",
+    "name": "WINE LAB MIYABI",
+    "station": "赤土小学校前"
+  },
+  "13326328": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326328",
+    "name": "三鷹ブルームーン",
+    "station": "三鷹"
+  },
+  "13326329": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326329",
+    "name": "富澤商店 丸ビル店",
+    "station": "二重橋前"
+  },
+  "13326330": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326330",
+    "name": "MANDA-LA2",
+    "station": "吉祥寺"
+  },
+  "13326331": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326331",
+    "name": "SINKIES LAKSA STAND",
+    "station": "淡路町"
   }
 }
