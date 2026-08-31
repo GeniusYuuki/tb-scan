@@ -15313,5 +15313,40 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326334",
     "name": "MATCHA MEIJIN Cafe 浅草店",
     "station": "浅草（東武・都営・メトロ）"
+  },
+  "13326335": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326335",
+    "name": "BRISKSTAND 東京ミズマチ店",
+    "station": "本所吾妻橋"
+  },
+  "13326336": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326336",
+    "name": "アップルパンチ",
+    "station": "雑司ヶ谷"
+  },
+  "13326337": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326337",
+    "name": "旬菜 鮮魚 居酒屋いろは",
+    "station": "落合南長崎"
+  },
+  "13326338": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326338",
+    "name": "ジンギスカン酒場 山田屋 久米川店",
+    "station": "久米川"
+  },
+  "13326339": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326339",
+    "name": "fwaffle!",
+    "station": "稲荷町"
+  },
+  "13326340": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326340",
+    "name": "TACOPUB",
+    "station": "入谷"
+  },
+  "13326341": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326341",
+    "name": "CAFE CROSSING",
+    "station": "西武新宿"
   }
 }
