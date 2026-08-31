@@ -15348,5 +15348,100 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326341",
     "name": "CAFE CROSSING",
     "station": "西武新宿"
+  },
+  "13326342": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326342",
+    "name": "根岸酒処いちずみ",
+    "station": "鶯谷"
+  },
+  "13326343": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326343",
+    "name": "天麩羅 つる岡",
+    "station": "神楽坂"
+  },
+  "13326344": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326344",
+    "name": "馬喰茶屋",
+    "station": "馬喰町"
+  },
+  "13326345": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326345",
+    "name": "coupage",
+    "station": "蒲田"
+  },
+  "13326346": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326346",
+    "name": "Dobro",
+    "station": "淡路町"
+  },
+  "13326347": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326347",
+    "name": "東京トイカフェ",
+    "station": "尾山台"
+  },
+  "13326348": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326348",
+    "name": "叙々苑 自由が丘駅前店",
+    "station": "自由が丘"
+  },
+  "13326349": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326349",
+    "name": "貸切専門 角打ち屋隠れ",
+    "station": "新橋"
+  },
+  "13326350": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326350",
+    "name": "全席個室居酒屋 和禅 池袋店",
+    "station": "池袋"
+  },
+  "13326351": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326351",
+    "name": "味楽",
+    "station": "西小山"
+  },
+  "13326352": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326352",
+    "name": "ASIAN PUNK",
+    "station": "上板橋"
+  },
+  "13326353": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326353",
+    "name": "TREVOIR",
+    "station": "大崎広小路"
+  },
+  "13326354": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326354",
+    "name": "BACCANO",
+    "station": "大崎広小路"
+  },
+  "13326355": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326355",
+    "name": "karaoke bar W",
+    "station": "神泉"
+  },
+  "13326356": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326356",
+    "name": "SHISHA BAR FLOWER",
+    "station": "西武新宿"
+  },
+  "13326357": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326357",
+    "name": "Shisha MOON cafe & bar",
+    "station": "北千住"
+  },
+  "13326358": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326358",
+    "name": "Darts Bar Link 蒲田店",
+    "station": "蒲田"
+  },
+  "13326359": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326359",
+    "name": "ARIES",
+    "station": "巣鴨"
+  },
+  "13326360": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326360",
+    "name": "しんのすけ",
+    "station": "芝浦ふ頭"
   }
 }
