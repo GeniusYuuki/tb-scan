@@ -15478,5 +15478,25 @@
     "url": "https://tabelog.com/tokyo/A1317/A131701/13326367",
     "name": "龍福 新中華",
     "station": "入谷"
+  },
+  "13326368": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326368",
+    "name": "札幌みその  五反田店",
+    "station": "五反田"
+  },
+  "13326369": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326369",
+    "name": "RED RECORDS",
+    "station": "赤坂"
+  },
+  "13326370": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326370",
+    "name": "パーキングサイドコーポ 1F",
+    "station": "赤羽岩淵"
+  },
+  "13326371": {
+    "url": "https://tabelog.com/tokyo/A1317/A131701/13326371",
+    "name": "ヤキニクライオン トウキョウ",
+    "station": "代々木公園"
   }
 }
